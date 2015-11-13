@@ -36,7 +36,7 @@ h1 ,h2,h3,h4{
 	padding: 50px;
 }
 .about-me{
-	background: url(../images/fondo-2.png)no-repeat;
+	background: url(../images/fondo-2.png);
 }
  .about-me .biografia img{
 	float: left;
